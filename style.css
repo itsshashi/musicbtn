@@ -1,0 +1,64 @@
+html,body{
+  text-align: center;
+  background-color:powderblue;
+ 
+}
+h1{
+    font-size: 5rem;
+}
+button{
+    height: 150px;
+    width: 150px;
+    box-shadow: 5px 3px 0 0  white;
+    background-color: pink;
+    margin-right:40px;
+    color:red;
+    font-weight:bold;
+    font-size: large;
+    border-radius: 50%;
+  
+    
+}
+.m{
+  background-image:url(images/crash.png);
+  background-size: cover;
+
+
+}
+.n{
+  background-image:url(images/kick.png);
+  background-size:cover;
+
+}
+.o{
+  background-image:url(images/snare.png);
+  background-size:cover;
+
+}
+.p{
+  background-image:url(images/tom1.png);
+  background-size:cover;
+
+}
+.q{
+  background-image:url(images/tom2.png);
+  background-size:cover;
+
+}
+.Fucked{
+  
+  opacity: 0.8;
+  box-shadow: 0 3px 4px 0 rgb(240, 9, 9);
+  
+  color:black;
+  box-sizing :border-box;
+  width:160px;
+  height:160px;
+  
+}
+.footer{
+ padding-top:500px;
+ font-size: large;
+ font-weight: bold;
+
+}
